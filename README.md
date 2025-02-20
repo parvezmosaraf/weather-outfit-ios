@@ -56,7 +56,7 @@ Weather Wardrobe combines real-time weather data with fashion intelligence to he
    -cd WeatherWardrobe
 3. **Configure API**:
    - Get free API key from [weatherstack.com](https://weatherstack.com/)
-   - Replace `YOUR_API_KEY` in `WeatherService.swift`
+   - Replace `YOUR_API_KEY` in `info.Plist`
 
 ## 🚀 Usage
 1. Enter location manually or use current location
