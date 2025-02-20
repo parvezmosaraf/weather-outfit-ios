@@ -8,7 +8,7 @@ enum NetworkError: Error {
 }
 
 class WeatherService {
-    private let apiKey = "/info.Plist/api-key"
+    private let apiKey = ""
     private let baseURL = "https://api.weatherstack.com/current"
     
     func getWeather(for location: String) async throws -> WeatherResponse {
