@@ -82,5 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Weatherstack for reliable weather data
 - Apple for SwiftUI and Combine frameworks
 - SF Symbols for iconography
-
-Your simple Donation can encourage me. Send me here (https://buymeacoffee.com/parvezcseou)
+## Your simple Donation can encourage me. Send me here (https://buymeacoffee.com/parvezcseou)
