@@ -51,9 +51,9 @@ Weather Wardrobe combines real-time weather data with fashion intelligence to he
    - Weatherstack API key (Free tier available)
 
 2. **Setup**:
-   -bash
-   -git clone (repository name)
-   -cd WeatherWardrobe
+   - bash
+   - git clone (repository name)
+   - cd WeatherWardrobe
 3. **Configure API**:
    - Get free API key from [weatherstack.com](https://weatherstack.com/)
    - Replace `YOUR_API_KEY` in `info.Plist`
